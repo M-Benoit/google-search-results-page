@@ -1,5 +1,5 @@
 This project is incomplete!
-You can view my google results page project [here ]()
+You can view my google results page project [here ](https://m-benoit.github.io/google-search-results-page/)
 
 This is an exercise from the Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css).
 
